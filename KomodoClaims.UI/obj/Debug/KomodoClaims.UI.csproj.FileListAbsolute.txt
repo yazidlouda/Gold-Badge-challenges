@@ -1,0 +1,10 @@
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe.config
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.exe
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\bin\Debug\KomodoClaims.UI.pdb
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\bin\Debug\KomodoClaims.dll
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\bin\Debug\KomodoClaims.pdb
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csprojAssemblyReference.cache
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CoreCompileInputs.cache
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.csproj.CopyComplete
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.exe
+C:\Users\yalou\source\repos\KomodoClaims\KomodoClaims.UI\obj\Debug\KomodoClaims.UI.pdb

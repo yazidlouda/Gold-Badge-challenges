@@ -1,0 +1,6 @@
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\bin\Debug\KomodoBadges.dll
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\bin\Debug\KomodoBadges.pdb
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.csprojAssemblyReference.cache
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.csproj.CoreCompileInputs.cache
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.dll
+C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.pdb
