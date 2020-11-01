@@ -85,7 +85,7 @@ namespace Cafe.UI
 
             Console.WriteLine("Enter the new meal number: ");
             content.OrderNumber = int.Parse(Console.ReadLine());
-
+            
 
             Console.Clear();
 
@@ -148,7 +148,7 @@ namespace Cafe.UI
 
             int removeOrder = int.Parse(Console.ReadLine());
 
-            Menu menuObject = _order.getdOrderByNumber(removeOrder);
+            Menu menuObject = _order.GetdOrderByNumber(removeOrder);
 
             _order.RemoveOrder(menuObject);
 

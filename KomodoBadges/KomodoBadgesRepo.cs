@@ -9,7 +9,6 @@ namespace KomodoBadges
     public class KomodoBadgesRepo
     {
         private Dictionary<int, List<string>> _doors = new Dictionary<int, List<string>>();
-        private List<string> _door = new List<string>();
         public Dictionary<int, List<string>> GetDictionary() 
         {
             return _doors;
