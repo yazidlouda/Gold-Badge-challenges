@@ -1,0 +1,6 @@
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\bin\Debug\Cafe.Repo.dll
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\bin\Debug\Cafe.Repo.pdb
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\obj\Debug\Cafe.Repo.csprojAssemblyReference.cache
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\obj\Debug\Cafe.Repo.csproj.CoreCompileInputs.cache
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\obj\Debug\Cafe.Repo.dll
+C:\Users\yalou\source\repos\GoldBadgeChallenges\Cafe.Repo\obj\Debug\Cafe.Repo.pdb

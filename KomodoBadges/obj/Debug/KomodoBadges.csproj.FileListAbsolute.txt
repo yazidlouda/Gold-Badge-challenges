@@ -4,3 +4,9 @@ C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.csp
 C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.csproj.CoreCompileInputs.cache
 C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.dll
 C:\Users\yalou\source\repos\KomodoClaims\KomodoBadges\obj\Debug\KomodoBadges.pdb
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\bin\Debug\KomodoBadges.dll
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\bin\Debug\KomodoBadges.pdb
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\obj\Debug\KomodoBadges.csprojAssemblyReference.cache
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\obj\Debug\KomodoBadges.csproj.CoreCompileInputs.cache
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\obj\Debug\KomodoBadges.dll
+C:\Users\yalou\source\repos\GoldBadgeChallenges\KomodoBadges\obj\Debug\KomodoBadges.pdb

@@ -55,6 +55,10 @@
       <Project>{7f441a52-f2f2-44dc-af3d-3cf7036e27e5}</Project>
       <Name>KomodoClaims</Name>
     </ProjectReference>
+    <ProjectReference Include="..\KomodoClaimTest\KomodoClaimTest.csproj">
+      <Project>{23ea1e1d-972e-4635-a7bc-a453d08c2aae}</Project>
+      <Name>KomodoClaimTest</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

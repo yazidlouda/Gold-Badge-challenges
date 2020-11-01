@@ -14,7 +14,7 @@ namespace Cafe.Repo
             _orders.Add(order);
         }
 
-        public Menu getdOrderByNumber(int orderNumber)
+        public Menu GetdOrderByNumber(int orderNumber)
         {
             foreach (Menu menuItem in _orders)
             {
